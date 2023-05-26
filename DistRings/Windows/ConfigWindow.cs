@@ -30,7 +30,7 @@ public class ConfigWindow : Window, IDisposable {
         "Distance Rings Config",
         ImGuiWindowFlags.None) {
         this.Size = new Vector2(380, 150);
-        this.SizeCondition = ImGuiCond.Appearing;
+        this.SizeCondition = ImGuiCond.FirstUseEver;
 
         this.Configuration = plugin.Configuration;
         this.CState = plugin.CS;
