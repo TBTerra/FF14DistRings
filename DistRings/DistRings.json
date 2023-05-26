@@ -1,0 +1,12 @@
+{
+    "Author": "TBTerra",
+    "Name": "Distance Rings",
+    "Punchline": "A simple plugin that displays distance rings around the player",
+    "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+    "InternalName": "distRings",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "sample",
+        "plugin"
+    ]
+}

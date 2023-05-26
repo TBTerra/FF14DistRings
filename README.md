@@ -1,10 +1,11 @@
 # FF14DistRings
 A simple plugin that displays distance rings around the player
 ### Features roadmap
- - [ ] Distance rings around player for specified yalm ranges
- - [ ] Rings can be toggled individually, or in bulk
- - [ ] Rings have customizable, color, thickness, and line style
- - [ ] Rings are saved per class, and auto-apply current class settings
+ - [x] Distance rings around player for specified yalm ranges
+ - [x] Rings can be toggled individually, or in bulk
+ - [x] Rings have customizable, color, thickness, and line style
+ - [x] Rings are saved per class, and auto-apply current class settings
+ - [ ] Easy import and export of settings
 ### Commands
 |Command|Function|
 |-|-|
